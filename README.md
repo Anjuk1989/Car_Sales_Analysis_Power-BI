@@ -17,6 +17,7 @@ Slicers, Bookmarks, Tooltips
 Data Cleaning & Transformation (Power Query)
 
 📈 Key Features
+
 📆 Sales Trend Analysis – Monthly/yearly performance visualization
 
 🌍 Sales by Country/Region – Identify top-performing areas
