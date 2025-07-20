@@ -1,5 +1,8 @@
 📊 Car Sales Analysis Dashboard – Power BI
+
+
 🚗 Overview
+
 This project provides a comprehensive analysis of car sales data using Power BI. It showcases insights into overall sales performance, customer trends, and revenue by region, brand, and sales rep, with an emphasis on interactive and dynamic visuals.
 
 🧰 Tools & Technologies
